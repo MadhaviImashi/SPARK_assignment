@@ -1,0 +1,56 @@
+input{
+    max-width: 350px;
+    
+}
+
+textarea{
+    max-width: 350px;
+}
+
+select{
+    max-width: 350px;
+}
+
+.container{
+    max-width: 700px;
+    background-color: #c4e0fc;
+}
+
+span{
+    color: red;
+}
+
+h2{
+    font-family: Open Sans ;
+    font-weight: bold;
+}
+
+label{
+    font-family: Open Sans;
+    font-style: bold;
+    font-size: 14pt;
+}
+
+input::placeholder{
+    font-family: Open Sans;
+    font-style: normal;
+    font-size: 12pt;
+}
+
+textarea{
+    font-family: Open Sans;
+    font-style: normal;
+    font-size: 12pt;
+}
+
+textarea::placeholder{
+    font-family: Open Sans;
+    font-style: normal;
+    font-size: 12pt;
+}
+
+button{
+    font-family: Open Sans;
+    font-style: bold;
+    font-size: 10pt;
+}
